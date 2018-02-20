@@ -10,5 +10,12 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 
 **Thoughts**: Created Tribute page for Mr. Matt Mullenweg, the creater of WordPress 
 
-**Link(s) to work**: [Tribute Page](https://codepen.io/shubham9411/full/Jpppyj/)
+**Link to work**: [Tribute Page](https://codepen.io/shubham9411/full/Jpppyj/)
 
+### r1d2
+
+**Today's Progress**: Created a Twitter Bot
+
+**Thoughts**: A bot that retweets the tweets containing the #btkitcodingclub
+
+**Link to work**: [Twitter Bot](https://twitter.com/btkitcodingclub)
