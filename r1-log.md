@@ -34,3 +34,9 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 
 **Thoughts**: Basic JavaScript, learnt about the arrays and scopes of variables in js
 
+### R1D5
+
+**Today's Progress**: Basic JavaScript COurse from freeCodeCamp
+
+**Thoughts**: Basic Javascript course, learnt about the comparison operators and if else etc.
+
