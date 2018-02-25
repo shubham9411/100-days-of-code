@@ -40,8 +40,14 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 
 **Thoughts**: Basic Javascript course, learnt about the comparison operators and if else etc.
 
-### r1d6
+### R1D6
 
 **Today's Progress**: Basic JavaScript Course from freeCodeCamp
 
 **Thoughts**: Learnt if else, switch statements, functions and Return Early Pattern for Functions in javascript.
+
+### R1D7
+
+**Today's Progress**: Basic JavaScript Course from freeCodeCamp
+
+**Thoughts**: Completed my Basic Javascript course in freeCodeCamp learnt loops and regex.
