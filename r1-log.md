@@ -51,3 +51,9 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 **Today's Progress**: Basic JavaScript Course from freeCodeCamp
 
 **Thoughts**: Completed my Basic Javascript course in freeCodeCamp learnt loops and regex.
+
+### R1D8
+
+**Today's Progress**: Completed OOFP section and Basic Algorithm scripting
+
+**Thoughts**: Completed Object Oriented and Functional Programming section and did some Basic algorithm scripting 
