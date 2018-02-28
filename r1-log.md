@@ -57,3 +57,9 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 **Today's Progress**: Completed OOFP section and Basic Algorithm scripting
 
 **Thoughts**: Completed Object Oriented and Functional Programming section and did some Basic algorithm scripting 
+
+### R1D9
+
+**Today's Progress**: Completed Algorithm Scripting section in freeCodeCamp
+
+**Thoughts**: Completed Algorithm Scripting section, this section was a bit tougher section till now, had fun though.
