@@ -63,3 +63,9 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 **Today's Progress**: Completed Algorithm Scripting section in freeCodeCamp
 
 **Thoughts**: Completed Algorithm Scripting section, this section was a bit tougher section till now, had fun though.
+
+### R1D10
+
+**Today's Progress**: JSON APIs and Ajax
+
+**Thoughts**: Completed JSON APIs and Ajax in freeCodeCamp.
