@@ -81,3 +81,11 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 **Today's Progress**: Building the local weather app
 
 **Thoughts**: Created basic markup and not wasted much time on design, But i still have to work on the weather icon to show for every weather. 
+
+### R1D13
+
+**Today's Progress**: Built FCC Wikipedia Viewer
+
+**Thoughts**: Built FCC Wikipedia Viewer using wikimedia api, added basic UI add animation and colors tomorrow, currently it contains only basic functionality
+
+**Link to work**: [FCC Wikipedia Viewer](https://codepen.io/shubham9411/full/PQrYBq/)
