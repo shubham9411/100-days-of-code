@@ -89,3 +89,11 @@ The log of my #100DaysOfCode challenge. Started on [February 18, Sunday, 2018].
 **Thoughts**: Built FCC Wikipedia Viewer using wikimedia api, added basic UI add animation and colors tomorrow, currently it contains only basic functionality
 
 **Link to work**: [FCC Wikipedia Viewer](https://codepen.io/shubham9411/full/PQrYBq/)
+
+### R1D14
+
+**Today's Progress**: Added animation and card design to weather app
+
+**Thoughts**: Added animation manually using transition prop and using jQuery addClass etc. 
+
+
